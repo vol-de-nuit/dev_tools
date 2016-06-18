@@ -1,2 +1,3 @@
 # dev_tools
-Collaboration of simple tools for PHP developers.
+Compilation of basic tools for PHP developers
+
